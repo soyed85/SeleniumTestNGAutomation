@@ -51,7 +51,7 @@ Clone the repository.
 
 
 Copy code
-git clone https://github.com/ashraf4343/SeleniumTestNGAutomation.git
+git clone https://github.com/
 cd SeleniumTestNGAutomation
 Install dependencies.
 
